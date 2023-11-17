@@ -16,7 +16,7 @@
 //
 //names
 const collectionName_user = 'users';  //login/create
-const uri = `mongodb+srv://userfornode:12345678900@book-managementsystem.cqntnli.mongodb.net/BookManage`;
+const uri = `mongodb+srv://billydeng97:dhy97886886@cluster0.zsgzyzj.mongodb.net/381Project?retryWrites=true&w=majority`;
 //names
 
 //quotes
