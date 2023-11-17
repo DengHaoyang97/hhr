@@ -16,7 +16,9 @@
 //
 //names
 const collectionName_user = 'users';  //login/create
-const uri =`mongodb+srv://userfornode:12345678900@book-managementsystem.cqntnli.mongodb.net/BookManage`;
+const uri = `mongodb+srv://userfornode:12345678900@book-managementsystem.cqntnli.mongodb.net/BookManage`;
+//names
+
 //quotes
 const mongoose = require('mongoose');
 const express = require('express');
